@@ -7,3 +7,6 @@ Hi there! I'm **Arslan Wali**, and I specialize in:
 - 🧠 **Machine Learning**: Applying machine learning techniques to analyze and interpret visual data.
 - 📈 **Continuous Learning**: Driven by a passion to constantly grow and expand my knowledge in this ever-evolving field.
 - 🚀 **Innovation**: Pushing the boundaries of technology to automate and optimize visual tasks.
+
+📧 **Gmail**: Arsalwali7@gmail.com  
+🔗 **LinkedIn**: [Arslan Wali](https://www.linkedin.com/in/arslan-wali/)
